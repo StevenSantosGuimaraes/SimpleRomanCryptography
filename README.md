@@ -15,3 +15,6 @@
 
 Essencialmente, o programa permite ao usuário criptografar e descriptografar mensagens,
 bem como manipular coordenadas geográficas e armazenar informações criptografadas em arquivos para uso posterior.
+
+
+Para mais informações, consulte o [site oficial da apresentação do Projeto](https://docs.google.com/presentation/d/1t2aENyMrtoJCZdNOcByIlXUBPlkQGJTg2UlXb85aWbo/edit?usp=sharing).
