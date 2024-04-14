@@ -3,7 +3,10 @@ import os
 
 
 def limparTela():
-    os.system('cls')
+    if os.name == 'nt':
+        os.system('cls')
+    else:
+        os.system('clear')
 
 def exportarTextoChave(txt):
     with open("./arquivos/chave.txt", "wb") as arquivo:
